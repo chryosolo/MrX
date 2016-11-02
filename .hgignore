@@ -1,0 +1,4 @@
+syntax: glob
+*.suo
+MrXServer/MrXServer/obj/*
+MrXServer/MrXServer/bin/*
